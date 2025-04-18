@@ -1,0 +1,1 @@
+include ':flutter', ':native-channel', ':protocol-channel', ':protocol-ffi'

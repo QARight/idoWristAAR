@@ -1,0 +1,4 @@
+jdk:
+  - openjdk11
+install:
+  - ./gradlew :flutter:publish :native-channel:publish :protocol-channel:publish :protocol-ffi:publish
